@@ -10,4 +10,4 @@ elif operator == '-':
 elif operator == '*' or '×':
     print('Answer is:' , int(f) * int(s))
 else:
-    print('Answer is:' , int(f) * int(s))
+    print('Answer is:' , int(f) / int(s))
