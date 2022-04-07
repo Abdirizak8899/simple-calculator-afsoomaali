@@ -1,4 +1,5 @@
 # building a simple calculator
+# copyright of this code has Abdirizak abdullahi hussein 
 print ('KADOORO XISAABTA AAD RABTO:')
 print ("1.KUDAR")
 print ("2.KA JAR ")
@@ -6,6 +7,7 @@ print ("3.ku dhufasho")
 print ("4.QEYB ")
 print ("5. KM TO M")
 print("6. M TO KM")
+#options and then backend 
 operation = input ()
 if operation == "1":
    num1 = input ("soo gali numberka koowaad:")
