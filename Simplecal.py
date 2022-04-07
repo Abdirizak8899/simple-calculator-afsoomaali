@@ -1,4 +1,5 @@
 # python simple calculator
+#copyright of this code has Abdirizak abdullahi hussein
 
 f = int(input("Enter 1st number: "))
 operator = input("choose the operator [+][-][×][÷]")
